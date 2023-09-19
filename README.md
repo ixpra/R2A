@@ -1,4 +1,7 @@
-# R2A
+# Road 2 Ascendant 
+Road 2 Ascendant or R2A is a website dedicated to helping Valorant players on their journey to the ranking of Ascendant. Developed by me, an experienced ex-Immortal player with over 1,000 hours, this platform is designed to be your ultimate companion as you ascend the ranks from Iron to Ascendant. Ready to embark on your journey to Ascendant? Explore "Road 2 Ascendant" now! let's conquer Valorant together!
+P.S. This is my first time using Github, I really appreciate checking out my code and what I made with passion!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
